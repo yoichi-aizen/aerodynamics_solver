@@ -1,5 +1,5 @@
 ===============================================================
-  Thin Airfoil Theory Tool — Para Glider Design (AE 244 A2)
+  Thin Airfoil Theory Tool — Para Glider Design (AE 244)
 ===============================================================
 
 REQUIREMENTS
@@ -82,7 +82,3 @@ KNOWN LIMITATIONS
 * Velocity field computation can take 5-20 seconds depending on grid size.
 * Line integral computation can take ~10-20 seconds.
 * Leading-edge singularity in γ(θ) causes γ → ∞ at x/c → 0 (normal for TAT).
-
-AUTHOR / TEAM
--------------
-Shaurya Gupta - 24B0051
